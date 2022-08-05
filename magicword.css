@@ -1,0 +1,29 @@
+::placeholder {
+    text-align: center;
+    font-family: 'Oleo Script Swash Caps', cursive;
+    color:black;
+}
+
+section{
+    height: 90vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+
+input[type="text"] {
+    margin: auto;
+    width: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid;
+    text-align: center;
+}
+
+a {
+    color: white
+}
+

@@ -1,0 +1,34 @@
+body {
+    margin: 0;
+    background: rgb(0,0,0);
+background: radial-gradient(circle, rgba(0,0,0,1) 30%, rgba(89,120,163,1) 100%);
+    width: 100%;
+    height: 100vh;
+  }
+  
+  header {
+    margin: 0 auto;
+    width: 50%;
+    height: 22vh;
+    text-align: center;
+    top: 50%;
+    font-family: 'Oleo Script Swash Caps', cursive;
+    color: white;
+    font-size: 200%;
+    
+  }
+  
+  main {
+    background: rgb(0,0,0);
+background: radial-gradient(circle, rgba(0,0,0,1) 26%, rgba(255,255,255,1) 100%);
+    margin: 0 auto;
+    width: 50%;
+    height: 52vh;
+  }
+  
+  footer { 
+    
+    margin: 0 auto;
+    width: 50%;
+    height: 30vh;
+  }
